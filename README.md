@@ -1,7 +1,7 @@
-# Proyecto Yacumama
+# Pre-diagnóstico cancer de mama - Mamdani
 
 - Proyecto creado para curso Sistemas Inteligentes - UNMSM. 
-- Web Proyecto para pre-diagnóstico de cancer de mama
+- Web Proyecto para pre-diagnóstico de cancer de mama.
 
 ## Implementación
 - Se implementó en instancia gratuita EC2 de AWS. Máquina virtual Ubuntu Server 18.04LTS.
